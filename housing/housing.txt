@@ -1,0 +1,10 @@
+radová výstavba = terraced houses  2
+dvojdom = semi-detached house   3
+rodinný dom = detached house   5
+sýdlisko = housing estates  6
+rezidencia / panské sídlo= mansion  1
+chata = cottage   4
+
+
+
+www.tes.com
